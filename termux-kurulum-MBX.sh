@@ -1,7 +1,4 @@
 #!/bin/bash
-#
-#
-#
 echo -e '\033[36;40;1m 
 
 MMMMMMMM               MMMMMMMMBBBBBBBBBBBBBBBBB   XXXXXXX       XXXXXXX 
